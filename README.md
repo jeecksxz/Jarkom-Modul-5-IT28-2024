@@ -7,4 +7,5 @@
 # Misi 1: Memetakan Kota New Eridu
 ## Soal 1
 ![image](https://github.com/user-attachments/assets/2647b3ff-95bd-4f65-822a-a9fcff585ea4)
-
+## Soal 2
+## Soal 3
